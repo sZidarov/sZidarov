@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Simeon Zidarov
 - 👀 I’m interested in coding and civil engineering
-- 🌱 I’m currently learning JavaScript and Linux basics
+- 🌱 I’m currently learning JavaScript and DevOps strategies
 - 📫 How to reach me ...
 - s.zidarov@gmail.com
 
