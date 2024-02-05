@@ -1,14 +1,13 @@
 - 👋 Hi, I’m Simeon Zidarov
 - 👀 I’m interested in coding and civil engineering
 -  JavaScript enthusiast
--  [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 - 🌱 I’m currently learning DevOps strategies
 - 📫 How to reach me ...
 - s.zidarov@gmail.com
 
-- <p align="center">
+ <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,react,docker" />
   </a>
 </p>
 
