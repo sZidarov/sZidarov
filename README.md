@@ -1,13 +1,13 @@
 - 👋 Hi, I’m Simeon Zidarov
 - 👀 I’m interested in coding and civil engineering
--  JavaScript enthusiast
+- :trophy: JavaScript enthusiast
 - 🌱 I’m currently learning DevOps strategies
 - 📫 How to reach me ...
 - s.zidarov@gmail.com
 
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,react,typescript,linux,docker" />
+    <img src="https://skillicons.dev/icons?i=git,js,typescript,html,css,react,linux,docker" />
   </a>
 </p>
 
