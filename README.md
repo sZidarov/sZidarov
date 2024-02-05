@@ -3,7 +3,7 @@
 - :trophy: JavaScript enthusiast
 - 🌱 I’m currently learning DevOps strategies
 - 📫 How to reach me ...
-- s.zidarov@gmail.com
+- :email: s.zidarov@gmail.com
 
  <p align="center">
   <a href="https://skillicons.dev">
